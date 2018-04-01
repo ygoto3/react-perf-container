@@ -1,0 +1,40 @@
+exports['snapshots 1'] = {
+  "CROSS_MARK": "❌",
+  "UP_ARROW": "⬆️",
+  "DOWN_ARROW": "⬇️"
+}
+
+exports['snapshots 2'] = [
+  "printWasted",
+  "printOperations",
+  "printInclusive",
+  "printExclusive"
+]
+
+exports['snapshots 3'] = {
+  "section": {
+    "border": "1px solid #c1c1c1",
+    "borderRadius": "2px",
+    "color": "#828282",
+    "backgroundColor": "#f7f7f7",
+    "padding": "1em"
+  },
+  "types": {
+    "display": "none"
+  },
+  "button": {
+    "border": "1px solid #c1c1c1",
+    "borderRadius": "2px",
+    "color": "#828282",
+    "fontSize": "12px",
+    "padding": "0.5em 1em"
+  },
+  "sButton": {
+    "border": "1px solid #c1c1c1",
+    "borderRadius": "2px",
+    "color": "#828282",
+    "fontSize": "8px",
+    "padding": "0.5em 1em"
+  }
+}
+

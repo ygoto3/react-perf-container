@@ -1,0 +1,11 @@
+# OS X files
+.DS_Store
+Thumbs.db
+
+# Generated files
+npm-debug.log
+node_modules/
+example_build/
+lib/
+.nyc_output/
+coverage/
